@@ -55,6 +55,8 @@
 <script>
 function postLock(){if(document.getElementById("lockerPassword").value==="LUKYXSAD"){document.getElementById("lockerContent").classList.remove("contentHide");document.getElementById("postLocker").classList.add("contentHide")}else{alert("Kamu Siapa? beli : 089509551861");lockerPassword.setSelectionRange(0,lockerPassword.value.length)}return false}
 </script>
+</body>
+</html>
 
 <!DOCTYPE html>
 <html lang="en">
