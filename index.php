@@ -1,3 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>
+    CRATE JASTEB BY LUKY NESIA 
+    </title>
+    <meta charset="UTF-8">
+    <meta name="Description" content="domain Gratisan Ini kalo merah/kaga bisa jan bacot kntl modal makanya kalo mau enak">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="shortcut icon" type="image/x-icon" href="https://cdn3.vectorstock.com/i/1000x1000/45/22/ng-logo-monogram-emblem-style-with-crown-shape-vector-31864522.jpg">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+    <script src='https://unpkg.com/splitting/dist/splitting.min.js'></script>
+    <link rel='stylesheet' href='https://unpkg.com/splitting/dist/splitting.css'>
+    <link rel='stylesheet' href='https://unpkg.com/splitting/dist/splitting-cells.css'>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7579749581890015"
+     crossorigin="anonymous"></script>
+    
 <div id="postLocker" oncontextmenu="return false">
   <div class="lockerContainer" id="postLock">
     <div class="lockerTitle">CRATE JASTEB</div>
